@@ -1,13 +1,12 @@
 ### Hi ,i am S Sai Tarun 👋
 
 - 🌱 I’m currently learning Laravel,PHP,Vue.js
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
+- 👯 I’m looking to collaborate on any Tech company
+- 💬 Ask me about anything about tech related stuff
 - 📫 How to reach me: saitarun@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: One thing I cannot live without is tech-stuff 😄
+- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <!--
 **saitarun135/saitarun135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
