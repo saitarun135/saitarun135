@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel,PHP,Vue.js
 - 👯 I’m looking to collaborate on any Tech company
 - 💬 Ask me about anything about tech related stuff
-- 📫 How to reach me: gmail-saitarun800@gmail (https://mail.google.com)
+- 📫 How to reach me: gmail-saitarun800@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: One thing I cannot live without Tech-stuff 😄
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
