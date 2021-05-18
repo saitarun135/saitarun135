@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Laravel,PHP,Vue.js
 - 👯 I’m looking to collaborate on any Tech company
 - 💬 Ask me about anything about tech related stuff
-- 📫 How to reach me: saitarun@gmail.com
+- 📫 How to reach me: gmail-saitarun800@gmail (https://mail.google.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: One thing I cannot live without is tech-stuff 😄
+- ⚡ Fun fact: One thing I cannot live without Tech-stuff 😄
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <!--
 **saitarun135/saitarun135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
