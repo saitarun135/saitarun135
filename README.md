@@ -1,7 +1,7 @@
 ### Hi ,i am S Sai Tarun 👋
 
-- 🌱 I’m currently learning Laravel,PHP,Vue.js
-- 👯 I’m looking to collaborate on any Tech company
+- 🌱 I’m currently learning Apiato
+- 👯 I’m working as a Software-Engineer at Payarc
 - 💬 Ask me anything about Tech related stuff
 - 📫 How to reach me: Gmail-saitarun800@gmail.com
 - 😄 Pronouns: He/His
