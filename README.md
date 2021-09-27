@@ -7,10 +7,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: One thing I cannot live without Tech-stuff 😄
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://drive.google.com/file/d/1neS2w576fD96lXzFamQDMTgHbFIgZEdd/view?usp=sharing_eil_dm&ts=6151970b" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
-
+ -->
 # G'day! I'm S Sai Tarun. 😃
 
 <p align="left">
