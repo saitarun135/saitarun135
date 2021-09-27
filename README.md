@@ -2,8 +2,7 @@
 <p align="center">
 <img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg " width="400"  alt="image-loading-soon" align="right" />
 </p>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
- -->
+
 # G'day! I'm S Sai Tarun. 😃
 
 <p align="left">
