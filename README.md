@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg " width="410" top="500" alt="image-loading-soon" align="right" />
+<img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg " width="400"  alt="image-loading-soon" align="right" />
 </p>
 
 # G'day! I'm S Sai Tarun. 😃
@@ -13,7 +13,7 @@
  <a href="https://www.instagram.com/sai_tarun_pup">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h4 >A little info about me...</h4> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="10"> <h4>A little info about me...</h4> 
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
 * 🚗 Currently learning  [Apiato](https://apiato.io/).
