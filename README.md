@@ -6,7 +6,7 @@
 # G'day! I'm S Sai Tarun. 😃
 
 <p align="center">
-<img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg " width="400"   alt="image-loading-soon" align="right" />
+<img src=" https://dribbble.com/shots/11081798-Money-Heist-Professor/attachments/2679903?mode=media" width="400"   alt="image-loading-soon" align="right" />
 </p>
 <p align="left">
  <a href="https://stackoverflow.com/users/16411283/sai-tarun">
