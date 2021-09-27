@@ -17,9 +17,9 @@
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
 * 🚗 Currently learning  [Apiato](https://apiato.io/).
-* 👯 I’m currently working as a Software-Engineer at Payarc.
+* 👯 I’m currently working as a Software-Engineer at [PayArc](https://www.payarc.com/).
 * 🇦🇺 From [Ongole, A.P](https://en.wikipedia.org/wiki/Ongole), but presently living in [Chennai, T.N](https://en.wikipedia.org/wiki/Chennai).
-* 😄 Pronouns: He/His.
+* 😄 Pronouns: [He]/[His].
 * 🎮 Loves playing [PUBG](https://na.battlegrounds.pubg.com/).
 * 💻 Fun fact: One thing I cannot live without Tech-stuff. 
 * 😁 Nice to meet you!
