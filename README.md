@@ -1,4 +1,7 @@
-
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 <img src="https://github.com/saitarun135/saitarun135/raw/main/coding.gif"  width="100" height="75" />
 
 # G'day! I'm S Sai Tarun. 😃  
