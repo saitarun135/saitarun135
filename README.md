@@ -27,7 +27,7 @@
 * 🎮 Loves playing [PUBG](https://na.battlegrounds.pubg.com/).
 * 💻 Fun fact: One thing I cannot live without Tech-stuff. 
 * 😁 Nice to meet you!
-<img src="https://github.com/saitarun135/saitarun135/raw/main/wonder.gif" width="800" height="100" />
+<img src="https://github.com/saitarun135/saitarun135/raw/main/wonder.gif" width="800" height="200" />
 
 
 
