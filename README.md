@@ -29,7 +29,7 @@
 </p>
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
-* 🚗 Currently learning a [Apiato](https://apiato.io/).
+* 🚗 Currently learning  [Apiato](https://apiato.io/).
 * 👯 I’m currently working as a Software-Engineer at Payarc.
 * 🇦🇺 From [Ongole, A.P](https://en.wikipedia.org/wiki/Ongole), but presently living in [Chennai, T.N](https://en.wikipedia.org/wiki/Chennai).
 * 😄 Pronouns: He/His.
