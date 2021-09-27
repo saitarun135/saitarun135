@@ -4,7 +4,6 @@
 </p> -->
 
 # G'day! I'm S Sai Tarun. 😃
-<img src="https://github.com/saitarun135/saitarun135/raw/main/wonder.gif"/>
 <p align="center">
 <img src="https://github.com/saitarun135/saitarun135/raw/main/money.gif" width="400"   alt="image-loading-soon" align="right" />
 </p>
@@ -28,5 +27,6 @@
 * 🎮 Loves playing [PUBG](https://na.battlegrounds.pubg.com/).
 * 💻 Fun fact: One thing I cannot live without Tech-stuff. 
 * 😁 Nice to meet you!
+<img src="https://github.com/saitarun135/saitarun135/raw/main/wonder.gif"/>
 
 
