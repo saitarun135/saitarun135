@@ -1,7 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/saitarun135/saitarun135/raw/main/Prof.jpg
-" width="410"  radius="50" alt="image-loading-soon" align="right" />
+<img src="https://github.com/saitarun135/saitarun135/raw/main/Prof.jpg" width="410"  radius="50" alt="image-loading-soon" align="right" />
 </p>
 
 # G'day! I'm S Sai Tarun. 😃
