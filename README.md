@@ -14,10 +14,9 @@
 # G'day! I'm S Sai Tarun. 😃
 
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/timoliver-au/">
+<a href="https://www.linkedin.com/in/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.dribbble.com/timoliver">
-<img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a>  -->
+
 <a href="https://www.twitter.com/TimOliverAU">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.youtube.com/timXD">
