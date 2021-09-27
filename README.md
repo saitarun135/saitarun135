@@ -23,6 +23,6 @@
 * 😄 Pronouns: He/His.
 * 🎮 Loves playing [PUBG](https://na.battlegrounds.pubg.com/).
 * 💻 Fun fact: One thing I cannot live without Tech-stuff. 
-* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Nice to meet you!
+* 😁 Nice to meet you!
 
 
