@@ -8,10 +8,10 @@
 - ⚡ Fun fact: One thing I cannot live without Tech-stuff 😄
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 -->
 <p align="center">
-<img src="https://github.com/saitarun135/TimOliver/raw/main/saitarun135.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
+<img src="https://drive.google.com/file/d/1neS2w576fD96lXzFamQDMTgHbFIgZEdd/view?usp=sharing_eil_dm&ts=6151970b" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
-# G'day! I'm Sai Tarun. 😃
+# G'day! I'm S Sai Tarun. 😃
 
 <p align="left">
 <a href="https://www.linkedin.com/in/timoliver-au/">
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
 </p>
 
-* 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
+* 📱 Software engineer specializing in [PHP](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
 * 🚗 Currently at [Drivemode](https://github.com/drivemode), previously at [Realm](https://github.com/realm).
 * 💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
 * 💻 Loves publishing [open source software on GitHub](https://github.com/TimOliver?tab=repositories&type=source).
