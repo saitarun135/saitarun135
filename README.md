@@ -3,7 +3,7 @@
 
 # G'day! I'm S Sai Tarun. 😃  
 
-(https://via.placeholder.com/15/f03c15/000000?text=+) `sai`
+(https://via.placeholder.com/15/sai/000000?text=+) `sai`
 <p align="center">
 <img src="https://github.com/saitarun135/saitarun135/raw/main/money.gif" width="400"   alt="image-loading-soon" align="right" />
 </p>
