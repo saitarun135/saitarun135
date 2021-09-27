@@ -16,7 +16,7 @@
 </p>
 
 ```diff
- ! @@ A little bit about me @@
+  @@ A little bit about me @@
 ```
 
 <h4>A little about me...</h4>
