@@ -15,6 +15,7 @@
 </p>
 <p> A little about me..</p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
