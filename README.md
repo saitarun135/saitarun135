@@ -1,7 +1,4 @@
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
+
 <img src="https://github.com/saitarun135/saitarun135/raw/main/coding.gif"  width="100" height="75" />
 
 # G'day! I'm S Sai Tarun. 😃  
@@ -17,7 +14,9 @@
  <a href="https://www.instagram.com/sai_tarun_pup">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
-
+```diff
++ A little bit about me...
+```
 <h4>A little about me...</h4>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
