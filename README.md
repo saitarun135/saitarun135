@@ -11,7 +11,7 @@
  <a href="https://www.instagram.com/sai_tarun_pup">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
-<p style="color:orange;"> A little about me..</p>
+<p > A little about me..</p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
