@@ -15,6 +15,8 @@
 </p>
 <p> A little about me..</p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
 * 🚗 Currently learning  [Apiato](https://apiato.io/).
 * 👯 I’m currently working as a Software-Engineer at Payarc.
