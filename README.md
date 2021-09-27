@@ -15,8 +15,6 @@
 </p>
 <p> A little about me..</p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
 * 🚗 Currently learning  [Apiato](https://apiato.io/).
@@ -25,6 +23,6 @@
 * 😄 Pronouns: He/His.
 * 🎮 Loves playing [PUBG](https://na.battlegrounds.pubg.com/).
 * 💻 Fun fact: One thing I cannot live without Tech-stuff. 
-* 😁 Nice to meet you!
+* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Nice to meet you!
 
 
