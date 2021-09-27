@@ -8,7 +8,7 @@
 - ⚡ Fun fact: One thing I cannot live without Tech-stuff 😄
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 -->
 <p align="center">
-<img src="https://github.com/saitarun135/saitarun135/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
+<img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
 # G'day! I'm S Sai Tarun. 😃
