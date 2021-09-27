@@ -1,5 +1,8 @@
 
-# G'day! I'm S Sai Tarun. 😃 <img src="https://github.com/saitarun135/saitarun135/raw/main/coding.gif" align="right" width="300" height="150" />
+<img src="https://github.com/saitarun135/saitarun135/raw/main/coding.gif"  width="100" height="75" />
+
+# G'day! I'm S Sai Tarun. 😃  
+
 <p align="center">
 <img src="https://github.com/saitarun135/saitarun135/raw/main/money.gif" width="400"   alt="image-loading-soon" align="right" />
 </p>
