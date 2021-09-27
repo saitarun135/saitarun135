@@ -1,14 +1,6 @@
-<!-- ### Hi ,i am S Sai Tarun 👋
 
-- 🌱 I’m currently learning Apiato
-- 👯 I’m currently working as a Software-Engineer at Payarc
-- 💬 Ask me anything about Tech related stuff
-- 📫 How to reach me: Gmail-saitarun800@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: One thing I cannot live without Tech-stuff 😄
-- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 -->
 <p align="center">
-<img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg" width="410" alt="iComics on an iPhone XS Max" align="right" />
+<img src="https://github.com/saitarun135/saitarun135/raw/main/IMG_20200406_135334_934.jpg" width="410" alt="image-loading-soon" align="right" border-radius: 50px />
 </p>
 
 # G'day! I'm S Sai Tarun. 😃
