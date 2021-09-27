@@ -19,11 +19,10 @@
 
 <a href="https://www.twitter.com/TimOliverAU">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://www.youtube.com/timXD">
-<img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
-<a href="https://www.instagram.com/timoliver">
+
+<a href="https://www.instagram.com/sai_tarun_pup">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-<a href="https://stackoverflow.com/users/599344/tim">
+<a href="https://stackoverflow.com/users/Sai tarun">
 <img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
 </p>
 
