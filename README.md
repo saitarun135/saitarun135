@@ -4,7 +4,7 @@
 </div>
 <!-- <img src="https://github.com/saitarun135/saitarun135/raw/main/coding.gif"  width="100" height="75" /> -->
 
-# G'day! I'm S Sai Tarun. 😎  
+## G'day! I'm S Sai Tarun. 😎  
 
 
 <p align="center">
