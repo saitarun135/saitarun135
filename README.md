@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) .
-* 🚗 Currently learning  [Apiato](https://apiato.io/).
+* 🚗 Currently learning  [Apiato](https://apiato.io/)&[Firebase](https://firebase.google.com/?gclid=CjwKCAjwp7eUBhBeEiwAZbHwkX0niTLXPLF_qfyfe6DjUnzynWqY0drICxxtqYiKvRXNauGI9iPhyRoCFowQAvD_BwE&gclsrc=aw.ds).
 * 👯 I’m currently working as a Software-Engineer at [PayArc](https://www.payarc.com/).
 * 🇮🇳 From [Ongole, A.P](https://en.wikipedia.org/wiki/Ongole), but presently living in [Chennai, T.N](https://en.wikipedia.org/wiki/Chennai).
 * 😄 Pronouns: He/His. 
