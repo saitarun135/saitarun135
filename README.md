@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 * 📱 Software engineer specializing in [LARAVEL](https://laravel.com/docs) & [Apiato](https://apiato.io/) .
-* 🚗 Currently learning  [Angular](https://angular.io/docs).
+* 🚗 Currently learning  [Vue](https://vuejs.org/).
 * 👯 I’m currently working as a Software-Engineer at [Blind Matrix](https://blindmatrix.com/).
 * 🇮🇳 From [Ongole, A.P](https://en.wikipedia.org/wiki/Ongole), but presently living in [Chennai, T.N](https://en.wikipedia.org/wiki/Chennai).
 * 😄 Pronouns: He/His. 
